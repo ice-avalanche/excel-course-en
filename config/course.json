@@ -1,0 +1,101 @@
+{
+  "id": "excel-course-en",
+  "title": "Excel and Data Analysis",
+  "version": "2026.1-en",
+  "days": [
+    {
+      "day": 1,
+      "date": "",
+      "lessons": [
+        {
+          "id": "1",
+          "title": "Excel Foundations: Reliable Workbooks and Modern Formulas",
+          "file": "lessons/1.md"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "date": "",
+      "lessons": [
+        {
+          "id": "2",
+          "title": "Power Query: Data Import, Cleaning and Transformation",
+          "file": "lessons/2.md"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "date": "",
+      "lessons": [
+        {
+          "id": "3",
+          "title": "Data Model, PivotTables, Power Pivot and DAX",
+          "file": "lessons/3.md"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "date": "",
+      "lessons": [
+        {
+          "id": "4",
+          "title": "What-If Analysis and Model Validation",
+          "file": "lessons/4.md"
+        }
+      ],
+      "afterTest": {
+        "id": "midterm",
+        "title": "Midterm Test",
+        "type": "selfcheck",
+        "file": "tests/midterm.md"
+      }
+    },
+    {
+      "day": 5,
+      "date": "",
+      "lessons": [
+        {
+          "id": "5",
+          "title": "Data Analysis, Statistics and Forecasting in Excel",
+          "file": "lessons/5.md"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "date": "",
+      "lessons": [
+        {
+          "id": "6",
+          "title": "VBA and Excel Automation",
+          "file": "lessons/6.md"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "date": "",
+      "lessons": [
+        {
+          "id": "7",
+          "title": "Interactive Dashboards and Automated Reporting",
+          "file": "lessons/7.md"
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "date": "",
+      "lessons": [],
+      "afterTest": {
+        "id": "final",
+        "title": "Final Assessment",
+        "type": "selfcheck",
+        "file": "tests/final.md"
+      }
+    }
+  ]
+}
