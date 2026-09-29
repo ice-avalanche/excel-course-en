@@ -1,7 +1,7 @@
 {
   "id": "excel-course-en",
   "title": "Excel and Data Analysis",
-  "version": "2026.1-en",
+  "version": "2026.3-en",
   "days": [
     {
       "day": 1,
@@ -89,7 +89,13 @@
     {
       "day": 8,
       "date": "",
-      "lessons": [],
+      "lessons": [
+        {
+          "id": "8",
+          "title": "Final Assessment Preparation",
+          "file": "lessons/8.md"
+        }
+      ],
       "afterTest": {
         "id": "final",
         "title": "Final Assessment",
