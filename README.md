@@ -20,9 +20,3 @@ Interactive English-language Excel course.
 6. VBA and Excel Automation
 7. Interactive Dashboards and Automated Reporting
 8. Final Assessment
-
-Lessons 1 and 2 are populated. Lessons 3–7 and the assessment files are placeholders for later content.
-
-## v2
-
-Formula and code examples in lesson materials are displayed as copyable blocks in the interactive textbook.
